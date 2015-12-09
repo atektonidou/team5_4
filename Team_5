@@ -1,2 +1,3 @@
 #!/bin/sh
 echo '<p> o vagelis den tha erthei oute simera sto ergastirio, opote katalaves Grisiel </p>' >../public_html/Team_5.html
+echo '<p> oute i angeliki irthe simera </p>' >>../public_html/Team_5.html 
